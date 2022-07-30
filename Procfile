@@ -1,1 +1,1 @@
-web: gunicorn sharebb-backend:app
+web: gunicorn 
